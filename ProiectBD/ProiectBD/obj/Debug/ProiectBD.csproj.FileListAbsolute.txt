@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\bin\Debug\ProiectBD.exe.config
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\bin\Debug\ProiectBD.exe
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\bin\Debug\ProiectBD.pdb
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\obj\Debug\ProiectBD.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\obj\Debug\ProiectBD.Form1.resources
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\obj\Debug\ProiectBD.Properties.Resources.resources
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\obj\Debug\ProiectBD.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\obj\Debug\ProiectBD.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\obj\Debug\ProiectBD.exe
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\obj\Debug\ProiectBD.pdb
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\obj\Debug\ProiectBD.Form2.resources
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\bin\Debug\Database1.mdf
+C:\Users\Alex\source\repos\ProiectBD\ProiectBD\bin\Debug\Database1_log.ldf
